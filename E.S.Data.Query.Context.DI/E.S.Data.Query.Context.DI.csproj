@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <Authors>Gideon (Entelect)</Authors>
+        <Description>E.S.Data.Query.Context</Description>
+        <PackageVersion>1.0.3</PackageVersion>       
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="E.S.Data.Query.Context" Version="1.0.11" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
+    </ItemGroup>
+
+</Project>
