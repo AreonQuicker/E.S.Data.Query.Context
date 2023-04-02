@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Authors>Gideon (Entelect)</Authors>
+        <Description>E.S.Data.Query.Context</Description>
+        <PackageVersion>6.0.15</PackageVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="E.S.Data.Query" Version="1.2.8" />
+        <PackageReference Include="Mapster" Version="7.3.0" />
+    </ItemGroup>
+
+</Project>
